@@ -1,0 +1,5 @@
+baidu.com
+q.baidu.com
+www.baidu.com
+w.baidu.com
+e.baidu.com
